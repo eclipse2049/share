@@ -1,5 +1,5 @@
 ## Полезные файлы
 
-## SublimeTheme.icls
+### SublimeTheme.icls
 
 Тема MonokaiSublime для PHPStorm. Модифицированная от оригинальной, ближе к sublime.
